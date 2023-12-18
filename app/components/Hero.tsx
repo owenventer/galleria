@@ -36,10 +36,10 @@ const Hero = () => {
         </a>
 
         <div className="text-center">
-          <h1 className="bg-gradient-to-r from-white via-accent to-primary bg-clip-text text-3xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
+          <h1 className="bg-gradient-to-r from-white via-accent to-primary bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
             Galleria
           </h1>
-          <p className="mt-6 text-lg leading-8 text-gray-300">
+          <p className="mt-6 text-base sm:text-lg leading-8 text-gray-300">
             Introducing the Helius Digital Asset Standard (DAS) API — the
             easiest and fastest way to query token and NFT data on Solana
           </p>
